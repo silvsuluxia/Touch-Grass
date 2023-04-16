@@ -1,0 +1,14 @@
+.my-button {
+    background-color: #59A96A;
+    color: FFFFFF;
+    padding: 20px;
+    width: 100px;
+    height: 5px;
+    border-radius: 25px;
+    background-position: center;
+    border: 1px solid black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
